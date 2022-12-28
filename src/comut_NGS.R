@@ -57,7 +57,7 @@ if(length(genes) >= 50){
   genes = genes[1:50]
 }
 
-#Make plot
+#Make plot 
 png(file="results/myOncoplot_NGS.png",width=4600,height=4500, res=300)
 
 oncoplot(maf = data.maf,   
