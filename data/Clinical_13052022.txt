@@ -1,0 +1,149 @@
+Tumor_Sample_Barcode	tumorType	clinicalResponse
+09-0023	CRC	PD
+44-0003	CRC	PD
+08-0019	GBM	SD
+10-0008	GBM	PD
+03-0029	GBM	NE
+03-0030	GBM	PD
+10-0009	GBM	PD
+03-0032	GBM	NE
+03-0033	GBM	PD
+03-0040	GBM	SD
+10-0010	GBM	PD
+03-0050	GBM	PD
+03-0055	GBM	PD
+03-0059	GBM	PD
+03-0058	GBM	NE
+10-0016	GBM	PD
+05-0069	GBM	NE
+05-0063	GBM	PD
+34-0024	GBM	PD
+34-0025	GBM	PD
+05-0066	GBM	PD
+34-0027	GBM	NE
+05-0067	GBM	PD
+03-0065	GBM	NE
+03-0066	GBM	PD
+09-0049	GBM	NE
+09-0057	GBM	ND
+01-0109	Cholangiocarcinoma	NE
+08-0024	Cholangiocarcinoma	PD
+11-0008	Cholangiocarcinoma	PD
+13-0002	Cholangiocarcinoma	PD
+36-0002	Cholangiocarcinoma	PD
+01-0251	Cholangiocarcinoma	PD
+36-0006	Cholangiocarcinoma	PD
+01-0245	Cholangiocarcinoma	PD
+13-0016	Cholangiocarcinoma	PD
+09-0024	Melanoma	SD
+08-0025	Melanoma	NE
+01-0130	Melanoma	PD
+08-0029	Melanoma	PD
+09-0032	Uveal melanoma	NE
+07-0059	PEComa	SD
+22-0007	Small intestine carcinoma 	PD
+17-0004	NSCLC	PD
+07-0143	NSCLC	PD
+12-0005	Ovarian cancer	PD
+38-0002	Ovarian cancer	NE
+01-0244	Ovarian cancer	PD
+01-0281	Ovarian cancer	PD
+02-0049	Ovarian cancer	PD
+07-0128	Vulva carcinoma	NE
+07-0139	Prostate cancer	SD
+05-0045	Melanoma	PD
+01-0284	CRC	PD
+14-0007	RCC	PD
+02-0065	Esophageal cancer	NE
+33-0019	HNSCC	PD
+02-0058	HNSCC	PD
+07-0165	HNSCC	PD
+02-0070	pNET	PD
+01-0291	pNET	PD
+01-0141	Neuroendorine carcinoma 	SD
+01-0257	Atypical carcinoid 	PD
+01-0145	Pancreatic cancer	NE
+13-0006	Pancreatic cancer	NE
+13-0011	Pancreatic cancer	PD
+09-0042	Pancreatic cancer	PD
+01-0252	Pancreatic cancer	PD
+23-0007	Pancreatic cancer	NE
+11-0016	Pancreatic cancer	PD
+38-0008	Pancreatic cancer	PD
+26-0007 	Pancreatic cancer	NE
+33-0024	Pancreatic cancer	PD
+44-0005	Esophageal cancer	PD
+01-0139	Esophageal cancer	PD
+01-0155	Esophageal cancer	PD
+01-0183	Esophageal cancer	PD
+36-0003	Esophageal cancer	PD
+44-0007	Esophageal cancer	PD
+01-0146	NSCLC	NE
+01-0151	NSCLC	NE
+01-0158	NSCLC	NE
+04-0012	NSCLC	PD
+01-0177	NSCLC	PD
+07-0111	NSCLC	SD
+01-0180	NSCLC	PD
+01-0188	NSCLC	PD
+01-0153	NSCLC	NE
+02-0054	Sarcoma	NE
+07-0129	Sarcoma	SD
+01-0198	Sarcoma	PD
+01-0213	Sarcoma	PD
+01-0232	Sarcoma	PD
+09-0044	Sarcoma	PD
+34-0020	Astrocytoma	PD
+01-0254	CRC	PD
+29-0004	Prostate cancer	PD
+01-0172	Bladder cancer	NE
+19-0004	Bladder cancer	PD
+07-0123	Bladder cancer	PD
+01-0263	Bladder cancer	PD
+07-0134	Ceruminous cancer	PD
+07-0102 	Ependymoma	PD
+08-0053	Ependymoma	PD
+08-0040	Melanoma	PD
+10-0012	Prostate cancer	NE
+14-0008	Prostate cancer	NE
+07-0170	Prostate cancer	PD
+01-0271	Prostate cancer	PD
+01-0178	Thymus carcinoma	SD
+09-0037	Sarcoma	NE
+01-0222	Sarcoma	PD
+02-0066	Anaplastic meningioma 	PD
+09-0040	Salivary gland carcinoma	SD
+01-0206	Mesothelioma 	PD
+07-0142	Mesothelioma 	PD
+01-0250	Mesothelioma 	SD
+07-0135	Salivary gland carcinoma	PD
+07-0155	Salivary gland carcinoma	PD
+07-0192	NSCLC	NE
+07-0195	NSCLC	NE
+08-0056	Ovarian cancer	NE
+01-0304	Acinar cell carcinoma	SD
+P001	Sarcoma	PD
+P002	Sarcoma	PD
+P003	Sarcoma	PD
+P004	Sarcoma	PD
+P005	Sarcoma	PD
+P006	Pancreatic cancer	Non CR/PD
+P007	Sarcoma	PD
+P008	Small cell carcinoma	PD
+P009	Sarcoma	SD
+P010	Sarcoma	SD
+P011	Sarcoma	SD
+P012	Sarcoma	SD
+P013	Sarcoma	PD
+P014	Sarcoma	PD
+P015	Adrenal cortical carcinoma	PD
+P016	Pancreatic cancer	PD
+		
+		
+	P010	
+	P011	
+	P012	
+	P013	
+	P014	
+	P015	
+	P016	
